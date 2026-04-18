@@ -1,121 +1,76 @@
-# Hi 👋 I'm Hossam Aboud
+# Hello, folks! 👋
 
-🚀 Senior Flutter Developer | Mobile Engineer | Backend (Node.js)
-
----
-
-## 👨‍💻 About Me
-
-Senior Flutter Developer with 4+ years of experience building high-performance cross-platform mobile applications.
-
-* 📱 Built & deployed **15+ production apps** on Google Play & App Store
-* ⭐ Delivered **50+ freelance projects** with 5-star ratings
-* ⚡ Improved app performance by **35%+** and reduced crash rates
-* 🔁 Experienced in full SDLC, from idea to deployment
-* 🌍 Open to **remote opportunities worldwide**
+My name is **Hossam**, and I am a **Senior Flutter Developer** from **Palestine** 🇵🇸. Currently available for **Remote** opportunities 🌍.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 A bit about me:
 
-### 📱 Mobile Development
-
-* Flutter (Dart)
-* Android (Kotlin)
-* iOS (Swift)
-
-### 🌐 Backend
-
-* Node.js (Express)
-* REST APIs
-
-### 🔥 Databases & Services
-
-* Firebase (Firestore, Auth, Storage)
-* MySQL / SQLite
-
-### 🧠 Architecture & State Management
-
-* Clean Architecture (MVVM)
-* BLoC / Cubit
-* Dependency Injection
-
-### ⚙️ DevOps & Tools
-
-* Git & GitHub
-* CI/CD (GitHub Actions, Fastlane)
-* Agile / Scrum
+- 💼 **Senior Flutter Developer & Backend Engineer** with 4+ years of experience
+- 📱 Deployed **15+ production apps** on Google Play and App Store
+- ⭐ Delivered **50+ freelance projects** with 5-star ratings from international clients
+- 🏗️ Expert in **Clean Architecture (MVVM)**, **BLoC/Cubit**, and scalable mobile architecture
+- ⚙️ Experienced in **CI/CD pipelines** using Fastlane & GitHub Actions
+- 🔧 Backend development with **Node.js**, **Express**, **Firebase**, and **REST APIs**
+- 🤝 Strong remote collaboration skills across cross-functional Agile/Scrum teams
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack:
 
-### 🏥 Medlet App
+**Mobile & Frontend**
 
-Medical education platform used by 3+ universities with 1,000+ users
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-* Improved performance by 35%
-* Scalable architecture using Flutter + Firebase
+**Backend & Database**
 
-👉 Available on Google Play
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+**Architecture & Tools**
 
-### 📩 OfflineSMS
-
-Bulk SMS platform for alerts & marketing (no internet required for receiver)
-
-* Supports multiple countries (KSA, UAE, Palestine, Israel, Kuwait)
-
-👉 Available on Google Play
-
----
-
-### 🛒 Shams Medical Services
-
-Healthcare super-app
-
-* Doctor booking
-* Pharmacy delivery
-* Lab tests
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=white)
 
 ---
 
-### 💪 96Gym (iOS)
+## 📱 Key Projects:
 
-Fitness coaching app
-
-* Personalized plans
-* Nutrition tracking
-
-👉 Available on App Store
-
----
-
-### 🔄 Switcher
-
-P2P marketplace with chat, ratings & trust system
+| Project | Description | Platform |
+|---------|-------------|----------|
+| **[Medlet App](https://play.google.com/store/apps/details?id=com.medlet.medletapp.medlet)** | Medical education platform for 3+ universities — 1,000+ active users | ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) |
+| **[OfflineSMS](https://play.google.com/store/apps/details?id=com.offlinesms.messenging)** | Bulk SMS app — no internet needed on recipient's end. Supports KSA, UAE, Palestine & more | ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) |
+| **[Switcher](https://play.google.com/store/apps/details?id=co.uk.jacksi.newswitcher)** | P2P product exchange marketplace with in-app chat & trust system | ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) |
+| **[96gym](https://apps.apple.com/tt/app/96gym/id6462816372)** | iOS fitness app with certified trainer programs & nutrition plans | ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white) |
+| **[World Plastics](https://play.google.com/store/apps/details?id=com.medlet.world_plastics)** | QR-based loyalty & rewards app for field technicians | ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white) |
+| **[Shams Medical](https://jacksi.co.uk/project/Shams-Medical-Services)** | Healthcare super-app: doctor bookings, pharmacy delivery & lab tests | 🌐 Web |
 
 ---
 
-## 📈 What I Bring
+## 📊 GitHub Stats:
 
-* Clean, scalable architecture
-* Performance-focused development
-* Production-ready mindset
-* Strong problem-solving skills
-* Reliable remote collaboration
+![Hossam's GitHub stats](https://github-readme-stats.vercel.app/api?username=hossam-aboud&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hossam-aboud&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📬 Contact Me
+## 🏆 Key Achievements:
 
-* 📧 Email: [hossam.vlogss@gmail.com](mailto:hossam.vlogss@gmail.com)
-* 🌐 Portfolio: https://hossam-aboud-portfolio.web.app
-* 💻 GitHub: https://github.com/hossam-aboud
+- 📉 Reduced app load time by **35%+** through performance profiling & optimization
+- 🚀 Cut CI/CD release cycle by **50%** using Fastlane & GitHub Actions
+- 📉 Reduced crash rate by **20%** via codebase refactoring
+- 🌍 Worked with **5+ companies** across healthcare, education, e-commerce & fintech
 
 ---
 
-## ⚡ Fun Fact
+## 📬 Connect with me:
 
-I treat every app like a product — not just code.
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hossam-aboud-portfolio.web.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hossam-aboud)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hossam.vlogss@gmail.com)
